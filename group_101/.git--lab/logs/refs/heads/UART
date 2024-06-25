@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 0de44961989246e084830b931e14673884474dac Jack Willson <jwi182@uclive.ac.nz> 1715487591 +1200	branch: Created from refs/remotes/origin/UART
+0de44961989246e084830b931e14673884474dac da6bc9731c10504919ff834ff77d7518416ba26b Jack Willson <jwi182@uclive.ac.nz> 1715489739 +1200	commit: start of uart functions
+da6bc9731c10504919ff834ff77d7518416ba26b 1e72bb8a86a06183249b20e4bf10a3e5834bc4e5 Jack Willson <jwi182@uclive.ac.nz> 1715491761 +1200	commit: finish uart string without modes, merging with Harrison switch
+1e72bb8a86a06183249b20e4bf10a3e5834bc4e5 4f7b55bcc9eb5b66cb99c074eb558edf6b4e1f46 Jack Willson <jwi182@uclive.ac.nz> 1715491771 +1200	pull: Merge made by the 'ort' strategy.
+4f7b55bcc9eb5b66cb99c074eb558edf6b4e1f46 92e7c0edcb941ed8fdc178171624969da1202a85 Jack Willson <jwi182@uclive.ac.nz> 1715499306 +1200	commit: first run on sim working
+92e7c0edcb941ed8fdc178171624969da1202a85 0deb79c138b0c0d27930ddf7b23eafccc4d617ce Jack Willson <jwi182@uclive.ac.nz> 1715499321 +1200	pull: Merge made by the 'ort' strategy.
+0deb79c138b0c0d27930ddf7b23eafccc4d617ce 4885976d65569af3aab798559ad05a04ccdf41a6 Jack Willson <jwi182@uclive.ac.nz> 1715499877 +1200	pull: Merge made by the 'ort' strategy.
+4885976d65569af3aab798559ad05a04ccdf41a6 a3b2b5ad6c7a722bd8c8c07e1b47b18550374248 Jack Willson <jwi182@uclive.ac.nz> 1715512147 +1200	commit: create helistate files to pull apart pwmrotor file
+a3b2b5ad6c7a722bd8c8c07e1b47b18550374248 7e9d1892d052883874184228419f0a85c2bb7113 Jack Willson <jwi182@uclive.ac.nz> 1715522869 +1200	commit: heli flying, gains need tuned, 180 case needs added, soft reset needs added
+7e9d1892d052883874184228419f0a85c2bb7113 07ef7d267a6778bf0748d4a3de83d48b62ab460d Jack Willson <jwi182@uclive.ac.nz> 1715563442 +1200	pull: Fast-forward
+07ef7d267a6778bf0748d4a3de83d48b62ab460d 9e586dc3549fc39b3cfaef8ba8e9502a45858a7c Jack Willson <jwi182@uclive.ac.nz> 1715564108 +1200	commit: fix comments before uart branch merge

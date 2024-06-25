@@ -1,0 +1,67 @@
+0000000000000000000000000000000000000000 aa41d6268cd3140a57816a5a63c179b377a8f0e0 Jack Willson <jwi182@uclive.ac.nz> 1710475976 +1300	clone: from https://eng-git.canterbury.ac.nz/ence361-2024/group_101.git
+aa41d6268cd3140a57816a5a63c179b377a8f0e0 f285f7c8267f7a4490bb41090775f02f93209b20 Jack Willson <jwi182@uclive.ac.nz> 1710476372 +1300	commit: first commit
+f285f7c8267f7a4490bb41090775f02f93209b20 065a465effbbbade8d6af245596af310e1550648 Jack Willson <jwi182@uclive.ac.nz> 1710977164 +1300	commit: upload
+065a465effbbbade8d6af245596af310e1550648 79c9a936cd5df5601544246cc7dfd5b5c38f60f8 Jack Willson <jwi182@uclive.ac.nz> 1710977830 +1300	commit: new files
+79c9a936cd5df5601544246cc7dfd5b5c38f60f8 49479dfded5b00a6731767e990472df07e755a18 Jack Willson <jwi182@uclive.ac.nz> 1710977928 +1300	commit: new
+49479dfded5b00a6731767e990472df07e755a18 5350e7c91fbf03a9c75bad4aeb46ff8e59eb5311 Jack Willson <jwi182@uclive.ac.nz> 1710978895 +1300	pull: Fast-forward
+5350e7c91fbf03a9c75bad4aeb46ff8e59eb5311 70bdd1320f09e8dbeb274a92dcbe351a6fbf7492 Jack Willson <jwi182@uclive.ac.nz> 1710980288 +1300	commit: changes
+70bdd1320f09e8dbeb274a92dcbe351a6fbf7492 dbefd71c075ad527d53b7e97772196950424e709 Jack Willson <jwi182@uclive.ac.nz> 1710982529 +1300	commit: back to one milestone file
+dbefd71c075ad527d53b7e97772196950424e709 beab5ceb989eaa80a1ff42d9996649f68c5ff55b Jack Willson <jwi182@uclive.ac.nz> 1710983378 +1300	commit: init ADC value saved
+beab5ceb989eaa80a1ff42d9996649f68c5ff55b fe327cf5357302016f87179f5833fd038cee7d53 Jack Willson <jwi182@uclive.ac.nz> 1710984501 +1300	commit: nothing
+fe327cf5357302016f87179f5833fd038cee7d53 2174ed597fa4c9bc54f0abacfbfcb91cc8ab6f5c Jack Willson <jwi182@uclive.ac.nz> 1710984503 +1300	pull: Merge made by the 'ort' strategy.
+2174ed597fa4c9bc54f0abacfbfcb91cc8ab6f5c c09aa5671819ecb72e53a57b7a8160c95214c864 Jack Willson <jwi182@uclive.ac.nz> 1710985104 +1300	commit: skeleton code
+c09aa5671819ecb72e53a57b7a8160c95214c864 4806105987f8d7ee3f83cb880b3d39dc301650ff Jack Willson <jwi182@uclive.ac.nz> 1710986527 +1300	pull: Fast-forward
+4806105987f8d7ee3f83cb880b3d39dc301650ff 3754b2b75b90b30f61827be2f06952f0869d0f9d Jack Willson <jwi182@uclive.ac.nz> 1710988099 +1300	commit: nice display cycle no button yet
+3754b2b75b90b30f61827be2f06952f0869d0f9d 051b65fbab0224dce24c903ae36307e1c38a12be Jack Willson <jwi182@uclive.ac.nz> 1710988973 +1300	commit: added includes for orbit and buttons and reset ADC button
+051b65fbab0224dce24c903ae36307e1c38a12be 170cbc0cc419674f955bf6922139ec86d14544d9 Jack Willson <jwi182@uclive.ac.nz> 1710988988 +1300	pull: Merge made by the 'ort' strategy.
+170cbc0cc419674f955bf6922139ec86d14544d9 537e0b4dc541c7ed607ce3a8139c8ad368c30c6a Jack Willson <jwi182@uclive.ac.nz> 1710989618 +1300	pull: Fast-forward
+537e0b4dc541c7ed607ce3a8139c8ad368c30c6a 62811ff77364ec7fde41dcacbdb66d222fef8ae4 Jack Willson <jwi182@uclive.ac.nz> 1710990769 +1300	commit: milestone 1 working complete one file and marked
+62811ff77364ec7fde41dcacbdb66d222fef8ae4 d17bbc28f3fecfb2cbe9ea222c50dd38dc643985 Jack Willson <Windows@AORUS-PC.(none)> 1713774606 +1200	pull: Fast-forward
+d17bbc28f3fecfb2cbe9ea222c50dd38dc643985 c194bf77c472a9520e552cdaaf02199a37601873 Jack <jwi182@uclive.ac.nz> 1713785367 +1200	commit: small changes
+c194bf77c472a9520e552cdaaf02199a37601873 c194bf77c472a9520e552cdaaf02199a37601873 Jack Willson <jwi182@uclive.ac.nz> 1713838650 +1200	checkout: moving from main to milestone2
+c194bf77c472a9520e552cdaaf02199a37601873 31981e334abc36b059d9a7f558afe03986bbfa15 Jack Willson <jwi182@uclive.ac.nz> 1713847201 +1200	commit: interrupts written, not tested, display mid edit to display degrees
+31981e334abc36b059d9a7f558afe03986bbfa15 c23677d6c5b1f53fc104893c6d1a5e56d49895e8 Jack Willson <jwi182@uclive.ac.nz> 1713851862 +1200	commit: interrupts working, displays yaw on first page as degree integer
+c23677d6c5b1f53fc104893c6d1a5e56d49895e8 35103e60f790e53dc96aff42cb0c70e3b7ed1d8c Jack Willson <jwi182@uclive.ac.nz> 1713852295 +1200	commit: changed milestone1 to main.c
+35103e60f790e53dc96aff42cb0c70e3b7ed1d8c c27a8c58d50e09fa7b0133de565a246cff76e1b1 Jack Willson <jwi182@uclive.ac.nz> 1714348807 +1200	commit: display Yaw as a float using mod division
+c27a8c58d50e09fa7b0133de565a246cff76e1b1 1bdced46237e841846455feef9bb669b56065324 Jack Willson <jwi182@uclive.ac.nz> 1714349181 +1200	commit: fix negative decimal
+1bdced46237e841846455feef9bb669b56065324 5e0956c1899ecd3eff87313cbac063f724db5f45 Jack <jwi182@uclive.ac.nz> 1714434702 +1200	commit: change display name
+5e0956c1899ecd3eff87313cbac063f724db5f45 8f8db61ecd1efdec1da0e595cbf53841fbbd9abf Jack <jwi182@uclive.ac.nz> 1714434982 +1200	commit: change names
+8f8db61ecd1efdec1da0e595cbf53841fbbd9abf 9abd138c23032bdb7ea4f3710ae2e3c59b3e92c7 Jack <jwi182@uclive.ac.nz> 1714435037 +1200	commit: change names
+9abd138c23032bdb7ea4f3710ae2e3c59b3e92c7 42bf161fbe408940805e9dcbbfba8ffb8f47e738 Jack Willson <jwi182@uclive.ac.nz> 1714444391 +1200	commit: fill readme file and change ADC input pin
+42bf161fbe408940805e9dcbbfba8ffb8f47e738 def72f04540b45cf3a6d1e0f3d7476e07d2b3079 Jack Willson <jwi182@uclive.ac.nz> 1714445893 +1200	commit: add wrap around for yaw at 180 degrees
+def72f04540b45cf3a6d1e0f3d7476e07d2b3079 8898f2788857cba993ba159910daad796113b50d Jack Willson <jwi182@uclive.ac.nz> 1714447402 +1200	commit: solve some magic numbers and change display mode if to a switch
+8898f2788857cba993ba159910daad796113b50d c194bf77c472a9520e552cdaaf02199a37601873 Jack Willson <jwi182@uclive.ac.nz> 1714447703 +1200	checkout: moving from milestone2 to main
+c194bf77c472a9520e552cdaaf02199a37601873 381df7048cf47e05a18e33064ac559cfff24d216 Jack Willson <jwi182@uclive.ac.nz> 1714447712 +1200	pull: Fast-forward
+381df7048cf47e05a18e33064ac559cfff24d216 41008869d969b5a56e19f717a021c07be4f5ad80 Jack Willson <jwi182@uclive.ac.nz> 1715298229 +1200	pull: Fast-forward
+41008869d969b5a56e19f717a021c07be4f5ad80 de9be2254cfa05484b355c1c48c214e05aa8c55c Jack Willson <jwi182@uclive.ac.nz> 1715313155 +1200	commit: no change
+de9be2254cfa05484b355c1c48c214e05aa8c55c 3daa1264af100e5ba9360923830df73188232d5d Jack Willson <jwi182@uclive.ac.nz> 1715313170 +1200	pull: Merge made by the 'ort' strategy.
+3daa1264af100e5ba9360923830df73188232d5d 56c60bb2707d71834089d0f396bb38133e21c669 Jack Willson <jwi182@uclive.ac.nz> 1715484489 +1200	pull: Fast-forward
+56c60bb2707d71834089d0f396bb38133e21c669 0de44961989246e084830b931e14673884474dac Jack Willson <jwi182@uclive.ac.nz> 1715487518 +1200	commit: Controller and scheduler implemented and running not tested
+0de44961989246e084830b931e14673884474dac 0de44961989246e084830b931e14673884474dac Jack Willson <jwi182@uclive.ac.nz> 1715487591 +1200	checkout: moving from main to UART
+0de44961989246e084830b931e14673884474dac da6bc9731c10504919ff834ff77d7518416ba26b Jack Willson <jwi182@uclive.ac.nz> 1715489739 +1200	commit: start of uart functions
+da6bc9731c10504919ff834ff77d7518416ba26b 1e72bb8a86a06183249b20e4bf10a3e5834bc4e5 Jack Willson <jwi182@uclive.ac.nz> 1715491761 +1200	commit: finish uart string without modes, merging with Harrison switch
+1e72bb8a86a06183249b20e4bf10a3e5834bc4e5 4f7b55bcc9eb5b66cb99c074eb558edf6b4e1f46 Jack Willson <jwi182@uclive.ac.nz> 1715491771 +1200	pull: Merge made by the 'ort' strategy.
+4f7b55bcc9eb5b66cb99c074eb558edf6b4e1f46 92e7c0edcb941ed8fdc178171624969da1202a85 Jack Willson <jwi182@uclive.ac.nz> 1715499306 +1200	commit: first run on sim working
+92e7c0edcb941ed8fdc178171624969da1202a85 0deb79c138b0c0d27930ddf7b23eafccc4d617ce Jack Willson <jwi182@uclive.ac.nz> 1715499321 +1200	pull: Merge made by the 'ort' strategy.
+0deb79c138b0c0d27930ddf7b23eafccc4d617ce 4885976d65569af3aab798559ad05a04ccdf41a6 Jack Willson <jwi182@uclive.ac.nz> 1715499877 +1200	pull: Merge made by the 'ort' strategy.
+4885976d65569af3aab798559ad05a04ccdf41a6 a3b2b5ad6c7a722bd8c8c07e1b47b18550374248 Jack Willson <jwi182@uclive.ac.nz> 1715512147 +1200	commit: create helistate files to pull apart pwmrotor file
+a3b2b5ad6c7a722bd8c8c07e1b47b18550374248 7e9d1892d052883874184228419f0a85c2bb7113 Jack Willson <jwi182@uclive.ac.nz> 1715522869 +1200	commit: heli flying, gains need tuned, 180 case needs added, soft reset needs added
+7e9d1892d052883874184228419f0a85c2bb7113 07ef7d267a6778bf0748d4a3de83d48b62ab460d Jack Willson <jwi182@uclive.ac.nz> 1715563442 +1200	pull: Fast-forward
+07ef7d267a6778bf0748d4a3de83d48b62ab460d 9e586dc3549fc39b3cfaef8ba8e9502a45858a7c Jack Willson <jwi182@uclive.ac.nz> 1715564108 +1200	commit: fix comments before uart branch merge
+9e586dc3549fc39b3cfaef8ba8e9502a45858a7c 0de44961989246e084830b931e14673884474dac Jack Willson <jwi182@uclive.ac.nz> 1715564168 +1200	checkout: moving from UART to main
+0de44961989246e084830b931e14673884474dac fb7e8da974dce43e9da931c21879429deaa6f828 Jack Willson <jwi182@uclive.ac.nz> 1715564239 +1200	pull: Fast-forward
+fb7e8da974dce43e9da931c21879429deaa6f828 ea18d836d91bb7163ecdf41519728f33f7aa844f Jack Willson <jwi182@uclive.ac.nz> 1715567206 +1200	commit: yaw ref point inint, soft reset diabled breaking
+ea18d836d91bb7163ecdf41519728f33f7aa844f c322afc622d945b82dd10b81992a48e30ea740b6 Jack Willson <jwi182@uclive.ac.nz> 1715571406 +1200	commit: wrap around code started not quite working
+c322afc622d945b82dd10b81992a48e30ea740b6 dbd465637d93992ff86d67ed437ea7ba10294934 Jack Willson <jwi182@uclive.ac.nz> 1715572885 +1200	commit: controller wrap around working, max limits need set on tail and tuned
+dbd465637d93992ff86d67ed437ea7ba10294934 acb8faa319d98f78e5ffce8037e8568f97759d28 Aeneas O'Sullivan <aos30@uclive.ac.nz> 1715587643 +1200	pull: Fast-forward
+acb8faa319d98f78e5ffce8037e8568f97759d28 f449dfef210beaef8037e0e4f92fb7d169d96514 Aeneas O'Sullivan <aos30@uclive.ac.nz> 1715591485 +1200	commit: tested more pid values running better
+f449dfef210beaef8037e0e4f92fb7d169d96514 668213555ba04f8de9d10111681195728976aab8 Jack Willson <jwi182@uclive.ac.nz> 1715649761 +1200	pull: Fast-forward
+668213555ba04f8de9d10111681195728976aab8 42f6c809652fbdfcbc919021b5046189f520d0f7 Jack Willson <jwi182@uclive.ac.nz> 1715649810 +1200	checkout: moving from main to tidiedcode
+42f6c809652fbdfcbc919021b5046189f520d0f7 1fa7782f2db1e4ed49076ab0669d04b018d1ccef Jack Willson <jwi182@uclive.ac.nz> 1715651358 +1200	commit: clean more code
+1fa7782f2db1e4ed49076ab0669d04b018d1ccef fe25ff5a53941bf5144a8c1c2459aeb824aee7f4 Jack Willson <jwi182@uclive.ac.nz> 1715651369 +1200	pull: Merge made by the 'ort' strategy.
+fe25ff5a53941bf5144a8c1c2459aeb824aee7f4 d9f8537cd43bfa2040b4c4284f2e63c9b729c90a Jack Willson <jwi182@uclive.ac.nz> 1715652256 +1200	pull: Fast-forward
+d9f8537cd43bfa2040b4c4284f2e63c9b729c90a dd2d86a52cbf16233c6aabb156dd4864f6f625aa Jack Willson <jwi182@uclive.ac.nz> 1715653135 +1200	commit: interupts for yaw reference pin
+dd2d86a52cbf16233c6aabb156dd4864f6f625aa 668213555ba04f8de9d10111681195728976aab8 Jack Willson <jwi182@uclive.ac.nz> 1715667121 +1200	checkout: moving from tidiedcode to main
+668213555ba04f8de9d10111681195728976aab8 71ff4cce1a208ea18bd9241ab596c101c2706bdf Jack Willson <jwi182@uclive.ac.nz> 1715667213 +1200	commit: merge not working
+71ff4cce1a208ea18bd9241ab596c101c2706bdf 594a078bd7a0bc8b0ad4349521355e93375a2acd Jack Willson <jwi182@uclive.ac.nz> 1715667500 +1200	commit: mergiung
+594a078bd7a0bc8b0ad4349521355e93375a2acd 8c8849ee6958867b521eb8cd2493f43e3a67d836 Jack Willson <jwi182@uclive.ac.nz> 1715667667 +1200	pull: Fast-forward

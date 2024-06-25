@@ -1,0 +1,22 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://eng-git.canterbury.ac.nz/ence361-2024/group_101.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "milestone2"]
+	remote = origin
+	merge = refs/heads/milestone2
+[branch "UART"]
+	remote = origin
+	merge = refs/heads/UART
+[branch "tidiedcode"]
+	remote = origin
+	merge = refs/heads/tidiedcode
